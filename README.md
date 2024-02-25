@@ -1,4 +1,4 @@
-# Flipkart-grid-5.0
+# Flipkart-Grid-5.0
 
 # 5-Axis Robotic Arm 
 ## Overview
